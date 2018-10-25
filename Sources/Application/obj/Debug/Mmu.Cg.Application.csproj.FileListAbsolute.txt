@@ -1,0 +1,9 @@
+C:\MyGit\Personal\CodeGenerator\Sources\Application\bin\Debug\Mmu.Cg.Application.dll
+C:\MyGit\Personal\CodeGenerator\Sources\Application\bin\Debug\Mmu.Cg.Application.pdb
+C:\MyGit\Personal\CodeGenerator\Sources\Application\bin\Debug\Mmu.Mlh.LanguageExtensions.dll
+C:\MyGit\Personal\CodeGenerator\Sources\Application\bin\Debug\StructureMap.dll
+C:\MyGit\Personal\CodeGenerator\Sources\Application\bin\Debug\StructureMap.xml
+C:\MyGit\Personal\CodeGenerator\Sources\Application\obj\Debug\Mmu.Cg.Application.csproj.CoreCompileInputs.cache
+C:\MyGit\Personal\CodeGenerator\Sources\Application\obj\Debug\Mmu.Cg.Application.csproj.CopyComplete
+C:\MyGit\Personal\CodeGenerator\Sources\Application\obj\Debug\Mmu.Cg.Application.dll
+C:\MyGit\Personal\CodeGenerator\Sources\Application\obj\Debug\Mmu.Cg.Application.pdb
